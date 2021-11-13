@@ -1,5 +1,5 @@
 ![](business-card.jpg)
-# tarjeta-business
+# Tarjeta Business
 
 He usado Bootstrap y SASS para crear esta tarjeta. 
 
